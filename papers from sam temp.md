@@ -6,7 +6,6 @@
 # help: locate the pdfs!!
 - Roger Gross "structured dropout"
 - Rolnick-Hanin ReLU
-- David Schwab RG
 - Hinton CCA improvement
 - Distillation 2014 Hinton
 
