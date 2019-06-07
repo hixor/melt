@@ -29,6 +29,9 @@
 
 ### Fast Geometric Ensembling
 - Garipov, Timur, et al. ["Loss surfaces, mode connectivity, and fast ensembling of dnns."](https://arxiv.org/abs/1802.10026) *Advances in Neural Information Processing Systems*. 2018.
+	- 	local optima are not isolated, but connected by simple curves
+	-  proposes new method to discover paths between optima along which loss is constant - i.e., finds level sets
+	-  can ensemble models along the curves
 
 ### "Structured dropout"
 - Wang, Chaoqi, et al. ["EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis."](https://arxiv.org/abs/1905.05934) *arXiv preprint arXiv:1905.05934*. 2019.
