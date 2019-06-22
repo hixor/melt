@@ -56,3 +56,5 @@
 
 - [Stochastic Weight Averaging and the Ornstein-Uhlenbeck Process](https://armenag.com/2019/05/13/stochastic-weight-averaging/) (ArmenAg blog post, May 2019)
 
+- [Landscape Connectivity of Low Cost Solutions for Multilayer Nets](http://www.offconvex.org/2019/06/16/modeconnectivity/) (Rong Ge blog post, Jun 16, 2019)
+
