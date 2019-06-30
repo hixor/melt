@@ -22,7 +22,9 @@
 - Cheung, Brian, et al. ["Superposition of many models into one."](https://arxiv.org/abs/1902.05522) *arXiv preprint arXiv:1902.05522*. 2019.
 
 ### Distillation
-- Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean.[ "Distilling the knowledge in a neural network."](https://arxiv.org/abs/1503.02531) *arXiv preprint arXiv:1503.02531* 2015.
+- Hinton, Geoffrey, Oriol Vinyals, and Jeff Dean. [ "Distilling the knowledge in a neural network."](https://arxiv.org/abs/1503.02531) *arXiv preprint arXiv:1503.02531* 2015.
+
+- Mary Phuong, Christoph H. Lampert. [Towards Understanding Knowledge Distillation](http://proceedings.mlr.press/v97/phuong19a/phuong19a.pdf), ICML 2019.
 
 ### Stochastic Weight Averaging
 - Izmailov, P., et al.[ "Averaging weights leads to wider optima and better generalization. arXiv 2018."](https://arxiv.org/abs/1803.05407) *arXiv preprint arXiv:1803.05407: 876-885*. 2018
